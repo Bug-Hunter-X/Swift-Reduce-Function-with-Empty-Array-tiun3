@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift when using the reduce method on an empty array. The example code showcases the issue and the provided solution explains how to handle such scenarios.
